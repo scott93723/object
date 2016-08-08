@@ -1,0 +1,25 @@
+物件的宣告 建構 指派
+
+三個步驟
+
+Bmw mybmw = new Bmw();
+
+1.宣告一個 refenrnce vareible  參考變數
+
+JVM 分配空間給參考變數
+
+並將此變數命名為mybmw。此參考變數將永遠固定為Bmw型別
+
+換句話說 他是可以控制Bmw的key
+
+2.建構object 
+
+要求jvm分配heap空間給新建立的Bmw物件
+
+3.將新的Bmw指派給 mybmw這個參考變數
+
+換句話說設定自己的bmw車子
+
+Bmw mybmw =new Bmw();
+
+
